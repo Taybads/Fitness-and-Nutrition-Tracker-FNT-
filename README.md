@@ -1,5 +1,4 @@
 Project Description:
-
 Fitness and Nutrition Tracker (FNT) is a Python application designed to help users track their workouts, meals, calories, and fitness information. The application allows users to manage their profiles, add and view health entries, import data from CSV and XML files, and visualize fitness and nutrition data. 
 
 Key Features:
