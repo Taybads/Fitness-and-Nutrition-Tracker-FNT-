@@ -23,7 +23,7 @@ pip install matplotlib
 ## How to run
 
 ```
-python FitnessandNutritionsTrack.py
+python FitnessandNutritionsTrack.ipynb
 ```
 
 Enter a profile name to start. A new profile is created if the name doesn't exist yet.
