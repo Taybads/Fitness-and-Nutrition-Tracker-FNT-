@@ -118,11 +118,3 @@ The design is in 3NF. `ClinicID` was removed from Appointment and Billing becaus
 
 Access is based on roles (doctor, billing staff, admin staff, patient). Each role only sees the data it needs. Data is protected with encryption. See [docs/security.md](docs/security.md).
 
-## Files
-
-```
-README.md
-docs/
-  database-design.md
-  security.md
-```
